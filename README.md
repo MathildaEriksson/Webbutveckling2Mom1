@@ -10,3 +10,5 @@ Den första delen av uppgiften bestod av frågor där olika begrepp och kommando
 * _git pull_
 
 Jag hoppas att denna kurs ska bli intressant och lärorik :heart_eyes:
+
+git clone git@github.com:MathildaEriksson/Webbutveckling2Mom1.git
