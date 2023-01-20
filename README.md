@@ -11,4 +11,4 @@ Den första delen av uppgiften bestod av frågor där olika begrepp och kommando
 
 Jag hoppas att denna kurs ska bli intressant och lärorik :heart_eyes:
 
-git clone git@github.com:MathildaEriksson/Webbutveckling2Mom1.git
+git clone https://github.com/MathildaEriksson/Webbutveckling2Mom1.git
